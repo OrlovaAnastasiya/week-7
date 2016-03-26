@@ -1,0 +1,24 @@
+  * {
+    box-sizing: border-box;
+  }
+  .ithem {
+    height: 400px;
+    width: 400px;
+    padding-left: 30px;
+    background: rgb(196, 231, 154);
+  }
+  .text {
+    position: absolute;
+    bottom: 50px;
+  }
+  .header {
+    height: 30px;
+    width: 150px;
+    margin-bottom: 20px;
+    background-color: rgb(41, 77, 0)
+  }
+  .paregrsph {
+    height: 50px;
+    width: 200px;
+    background: rgb(148, 193, 46)
+  }
